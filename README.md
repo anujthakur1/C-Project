@@ -53,8 +53,9 @@ ID-Card-Generator/
 ### 1. Clone this Repository
 
 ```bash
-git clone https://github.com/your-username/ID-Card-Generator.git
-cd ID-Card-Generator
+git clone https://github.com/anujthakur1/CPP-Project.git
+cd CPP-Project
+
 ```
 
 ### 2. Install Dependencies
